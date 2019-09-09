@@ -8,6 +8,10 @@ This repository contains Keras implementation of [ActAttn](https://epjdatascienc
 Ali Mert Ertugrul, Yu-Ru Lin, Wen-Ting Chung, Muheng Yan, Ang Li. Activism via attention: interpretable spatiotemporal learning to forecast protest activities. EPJ Data Science 8.1 (2019): 5.
 
 
+## Citation
+
+If you use any of the resources provided on this page, please cite the following paper:
+
 ```
 @article{ertugrul2019ActAttn,
   title={Activism via attention: interpretable spatiotemporal learning to forecast protest activities},
